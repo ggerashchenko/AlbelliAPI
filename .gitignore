@@ -1,0 +1,7 @@
+allure-results
+target
+.allure
+.idea/
+albelliAPI.iml
+build
+*.log
